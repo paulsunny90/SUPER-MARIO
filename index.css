@@ -8,7 +8,7 @@ body{
 .box-main{
     display: flex;
     align-items: center;
-    justify-content:center;
+    justify-content:center; 
     padding-top: 5%; 
 }
 .box{
@@ -18,10 +18,13 @@ body{
     border: 5px solid white;
 }
 #bool{
-    background-color: brown;
+    background-image: url(WhatsApp\ Image\ 2025-11-04\ at\ 17.10.20_2953ac80.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgb(42, 7, 148);
     width: 100px;
     height: 100px;
-    border-radius: 50%;
     position: relative;
     top: 80%;
     left: 5%;
