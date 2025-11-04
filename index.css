@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(178, 246, 246);
+    
+}
+.heding{
+    text-align: center;
+}
+.box-main{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding-top: 5%; 
+}
+.box{
+    background-color: rgb(42, 7, 148);
+    width: 80%;
+    height: 70vh;
+    border: 5px solid white;
+}
+#bool{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    top: 80%;
+    left: 5%;
+}
+.qube{
+    display: flex;
+    position: relative;
+    top: 50%;
+    left: 10%;
+    
+}
+.qube-one{
+    background: green;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+.qube-two{
+    display: flex;
+    position: relative;
+    top:35%;
+    left: 60%;
+
+}
+.qube-three{
+    display: flex;
+    position: relative;
+    bottom: 30%;
+    left: 66%;
+
+
+}
+.qube-for{
+    display: flex;
+    position: relative;
+    bottom: 30%;
+    left: 46%;
+
+}
+.qube-five{
+    display: flex;
+    position: relative;
+    bottom: 60%;
+    left: 20%;
+
+}
